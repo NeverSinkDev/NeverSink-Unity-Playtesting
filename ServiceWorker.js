@@ -1,9 +1,9 @@
 const cacheName = "AlwaysFloat-Descent into Darkness-0.1";
 const contentToCache = [
-    "Build/6UCG.loader.js",
-    "Build/6UCG.framework.js.br",
-    "Build/6UCG.data.br",
-    "Build/6UCG.wasm.br",
+    "Build/NeverSink-Unity-Playtesting.loader.js",
+    "Build/NeverSink-Unity-Playtesting.framework.js.unityweb",
+    "Build/NeverSink-Unity-Playtesting.data.unityweb",
+    "Build/NeverSink-Unity-Playtesting.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
